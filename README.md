@@ -3,11 +3,7 @@ El juego del tres en raya, pero en web!
 
 README – Projecte Tic Tac Toe
 
-En aquest document explico, de manera molt senzilla, com he desenvolupat el joc del Tic Tac Toe utilitzant HTML, CSS i JavaScript. Explico el procés des del principi i pas a pas.
-
-Idea del projecte
-
-L’objectiu del projecte és crear el joc clàssic del Tic Tac Toe (tres en ratlla) per a dos jugadors. Un jugador juga amb X i l’altre amb O. Els jugadors fan clic a les caselles del tauler per torns.
+En aquest document explico, de manera molt senzilla, com he desenvolupat el joc del Tic Tac Toe utilitzant HTML, CSS i JavaScript.
 
 El projecte està format per tres arxius:
 
