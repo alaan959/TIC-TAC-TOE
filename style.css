@@ -1,4 +1,4 @@
-.casella {
+.button {
     width: 200px;
     height: 200px;
     border: 2px solid #000;
@@ -7,15 +7,29 @@
     justify-content: center;
     font-size: 48px;
     cursor: pointer;
-    font-family: 'Raleway', sans-serif; /* Aplicar la font de Google */
+    font-family: 'Raleway', sans-serif;
 }
 .div {
     background-color: #000;
 }
-.body {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Raleway', sans-serif;
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #6a00ff, #9b5cff);
+    font-family: 'Raleway', sans-serif;
+}
+.tauler {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 600px;
+  margin: auto;
+}
+.info {
+    background-color: rgba(255, 255, 255, 0.15);
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
 }
